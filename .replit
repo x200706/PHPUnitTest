@@ -1,0 +1,6 @@
+run = ["php", "except.php"]
+
+entrypoint = "main.php"
+
+[nix]
+channel = "stable-23_05"
