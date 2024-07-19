@@ -75,8 +75,10 @@
 
 function throwThenCatch(){
   try{
+    $a = 369;
     throw new InvalidArgumentException("丟丟丟\n");
   }catch(InvalidArgumentException $e){
+    echo $a;
     echo $e->getMessage();
   }
 }
