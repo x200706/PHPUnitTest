@@ -8,4 +8,5 @@ function pushElementIntoOutSideArr(&$out_side_arr) { // 指針解
 }
 pushElementIntoOutSideArr($out_side_arr);
 
-var_dump($out_side_arr);
+// var_dump($out_side_arr);
+exit(var_dump($out_side_arr));

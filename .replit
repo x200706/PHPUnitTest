@@ -1,4 +1,4 @@
-run = ["php", "except.php"]
+run = ["php", "emptyArrayEquals.php"]
 
 entrypoint = "main.php"
 
