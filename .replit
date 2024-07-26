@@ -1,4 +1,4 @@
-run = ["php", "emptyArrayEquals.php"]
+run = ["php", "SuperEquals.php"]
 
 entrypoint = "main.php"
 
