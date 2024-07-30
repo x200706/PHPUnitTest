@@ -1,4 +1,4 @@
-run = ["php", "SuperEquals.php"]
+run = ["php", "CanCatchRtn.php"]
 
 entrypoint = "main.php"
 
