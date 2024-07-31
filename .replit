@@ -1,4 +1,4 @@
-run = ["php", "CanKeepGoingAfterCatchException.php"]
+run = ["php", "ReturnWho.php"]
 
 entrypoint = "main.php"
 
